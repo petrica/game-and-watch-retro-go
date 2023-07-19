@@ -1,5 +1,9 @@
 ![](assets/gnw.gif)
 
+# Fork Updates
+
+* Provide a solution to resolve the problem of sprites not being displayed in the Sega Genesis version of Snow Bros.
+
 # Support
 You can support my (sylverb) work and get beta versions of new emulators on https://www.patreon.com/sylverb
 
