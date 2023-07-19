@@ -12,7 +12,7 @@
 	url = https://github.com/sylverb/potator.git
 [submodule "gwenesis"]
 	path = gwenesis
-	url = https://github.com/sylverb/gwenesis
+	url = https://github.com/petrica/gwenesis
 [submodule "prosystem-go"]
 	path = prosystem-go
 	url = https://github.com/sylverb/prosystem-go.git

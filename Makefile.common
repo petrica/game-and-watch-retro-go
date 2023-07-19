@@ -725,7 +725,7 @@ openocd:
 .PHONY: openocd
 
 reset:
-	$(OPENOCD) -f scripts/interface_$(ADAPTER).cfg -c "init; reset; exit"
+	$(OPENOCD) -f scripts/interface_$(ADAPTER).cfg -c "bindto 0.0.0.0; init; halt"
 .PHONY: reset
 
 erase_intflash_1:
