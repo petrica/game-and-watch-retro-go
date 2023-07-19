@@ -173,7 +173,7 @@ export ADAPTER=stlink
 
 # Clone this repo with submodules:
 
-git clone --recurse-submodules https://github.com/sylverb/game-and-watch-retro-go
+git clone --recurse-submodules https://github.com/petrica/game-and-watch-retro-go
 
 cd game-and-watch-retro-go
 
