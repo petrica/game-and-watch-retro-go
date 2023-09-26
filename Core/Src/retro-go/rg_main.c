@@ -422,7 +422,7 @@ void retro_loop()
                     ODROID_DIALOG_CHOICE_SEPARATOR,
                     {1, curr_lang->s_Lang, curr_lang->s_LangAuthor, 1, NULL},
                     ODROID_DIALOG_CHOICE_SEPARATOR,
-                    {3, "Boot 2nd bank", "", 1, NULL},
+                    {3, "Play Super Mario World", "", 1, NULL},
                     {2, curr_lang->s_Debug_menu, "", 1, NULL},
                     {1, curr_lang->s_Reset_settings, "", 1, NULL},
                     ODROID_DIALOG_CHOICE_SEPARATOR,
